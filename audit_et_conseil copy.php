@@ -9,7 +9,7 @@
     <script src="https://kit.fontawesome.com/ec5ce09376.js" crossorigin="anonymous"></script>
   </head>
   <body>
-    <!-- Barre de navigation -->
+    <!-- Barre de navigation-->
     <nav>
         <input type="checkbox" id="check">
         <label for="check" class="checkbtn">
