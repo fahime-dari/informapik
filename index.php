@@ -48,9 +48,9 @@
     <label for="check" class="checkbtn">
       <i class="fas fa-bars"></i>
     </label>
-    <!--<div class="logo">
+    <div class="logo">
       <img src="./images/logo.png" alt="">
-    </div>-->
+    </div>
     <ul class="nav_link--list">
       <li class="nav-link">
         <a href="/code/index.php" class="nav__link--anchor link-hover-effect link-hover-effect-white">Accueil</a>
